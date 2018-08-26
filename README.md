@@ -1,0 +1,1 @@
+# spindleMachineConsumerService
